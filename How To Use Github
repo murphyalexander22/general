@@ -1,0 +1,7 @@
+1. Make sure you have git installed on your computer
+2. To download a repository run the command 'git clone <<githuburl>>'
+3. After editing the files on your local machine, once you want to upload them run the following commands:
+  git add <<editedfilename>>
+  EITHER:
+  1. git merge <<editedfilename>> to merge the changes
+  or 2. git push <<editedfilename>> to replace the current file
